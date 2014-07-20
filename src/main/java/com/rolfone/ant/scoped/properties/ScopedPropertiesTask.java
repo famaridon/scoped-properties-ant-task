@@ -1,7 +1,7 @@
 package com.rolfone.ant.scoped.properties;
 
-import com.rolfone.maven.scoped.properties.exceptions.BuildPropertiesFilesException;
-import com.rolfone.maven.scoped.properties.utils.ScopedPropertiesUtils;
+import com.famaridon.maven.scoped.properties.exceptions.BuildPropertiesFilesException;
+import com.famaridon.maven.scoped.properties.utils.ScopedPropertiesUtils;
 import org.apache.tools.ant.BuildException;
 import org.apache.tools.ant.Task;
 
